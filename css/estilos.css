@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/a4/53/ae/a453ae44949b72efe226aaeec1c54708.jpg');
+    background-size: auto 200vh;
+    font-family: Century Gothic;
+    height: 100vh;
+  }  
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+     display: flex;
+    justify-content: space-evenly;   
+  }
+  
+  a {
+    color: tomato;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: white;
+    text-decoration: underline
+  }
+  
+  .site-title{
+    color: white;
+    text-align: center;
+  }
+  
+  .site-subtitle
+  {
+    color: grey;
+    text-align: center;
+    font-family: Miriam Fixed;
+  }
